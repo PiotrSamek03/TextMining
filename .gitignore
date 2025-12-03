@@ -214,3 +214,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+wordclouds
+topic_modelling
+ngrams
+clustering
